@@ -24,7 +24,7 @@ The "Loan" dataset analyzes factors affecting approving a loan. It comprises rec
 - **Loan Status**: Loan approved (Yes or No).
 
 ### Data Source
-- [Loan Dataset on Kaggle]([https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression](https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction/code))
+- [Loan Dataset on Kaggle](https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction/code)
 
 ## Libraries
 - Numpy
