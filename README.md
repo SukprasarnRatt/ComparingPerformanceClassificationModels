@@ -1,7 +1,6 @@
 # ComparingPerformanceClassificationModels
 
-This project uses classification models and compares their performance using the Accuracy classification score. It aims to identify the most effective model for predicting student performance based on several influencing factors.
-It aims to predict whether customers should get a loan based on several influencing factors.
+This project involves the use of different classification models to predict whether customers are eligible for a loan, based on various influential factors. The performance of these models is evaluated and compared using the Accuracy classification score.
 
 ## Dataset
 
